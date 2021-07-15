@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -85,7 +85,6 @@
 				B3BDD6C02E3C679619669F18 /* Pods-NativeIOSReactNative.debug.xcconfig */,
 				B7731B5BAC8A65E2844CD413 /* Pods-NativeIOSReactNative.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
